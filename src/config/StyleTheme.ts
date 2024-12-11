@@ -24,6 +24,12 @@ export const styles = StyleSheet.create({
         textAlign: 'right',
         fontWeight: '400'
     },
+    subResult: {
+        color: colors.ligthGray,
+        fontSize: 30,
+        textAlign: 'right',
+        fontWeight: '400'
+    },
     controler: {
         backgroundColor: colors.darkGray,
         height: 80,
